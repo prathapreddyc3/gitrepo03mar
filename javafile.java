@@ -1,4 +1,5 @@
 this is a java regestration page
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 this is my manager work
 =======
@@ -9,3 +10,6 @@ this is my manager work
 100 per work completed
 
 >>>>>>> Stashed changes
+=======
+this is my manager work
+>>>>>>> 36219a5 (java)
